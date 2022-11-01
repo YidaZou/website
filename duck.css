@@ -24,7 +24,7 @@ ul {
 }
 
 html,body {
-    background-image: url("duck.png");
+    background-image: url("duck.PNG");
     background-size: 100%;
     background-position: right;
     background-repeat: no-repeat;
